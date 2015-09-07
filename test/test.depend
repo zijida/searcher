@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1431042718 source:d:\project\searcher\test\main.cpp
+	<iostream>
+	"../main.h"
+
+1431042380 d:\project\searcher\main.h
+	<windows.h>
+

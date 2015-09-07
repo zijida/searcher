@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1431594620 source:d:\project\searcher\main.cpp
+	"main.h"
+	"include/uri.h"
+
+1431042380 d:\project\searcher\main.h
+	<windows.h>
+
+1431594742 source:d:\project\searcher\src\uri.cpp
+	"uri.h"
+
+1431395545 d:\project\searcher\include\uri.h
+	"vars.h"
+	"define_buffer.h"
+
+1431397679 source:d:\project\searcher\src\define_buffer.cpp
+	"vars.h"
+	"define_buffer.h"
+
+1431414172 d:\project\searcher\include\vars.h
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<string>
+	<list>
+	<stdexcept>
+	<deque>
+
+1431412569 d:\project\searcher\include\define_buffer.h
+
+1431397778 source:d:\project\searcher\src\define_mission.cpp
+	"vars.h"
+	"define_buffer.h"
+	"define_mission.h"
+
+1431412610 d:\project\searcher\include\define_mission.h
+
